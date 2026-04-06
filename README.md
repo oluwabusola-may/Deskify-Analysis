@@ -51,13 +51,15 @@ The final phase of the project was the creation of a **Financial and Sales Perfo
 - **Trend Charts:** Monthly sales performance to identify seasonal peaks.
 
 ## Recommendations
-Optimize Furniture Shipping:** Review shipping costs for heavy furniture items in the "West" and "Atlantic" regions where margins are thinner.
+1.**Optimize Furniture Shipping:** Review shipping costs for heavy furniture items in the "West" and "Atlantic" regions where margins are thinner.
 2. **Discount Strategy:** Reduce the maximum discount threshold for low-margin Office Supplies to protect the bottom line.
 3. **Inventory Management:** Increase stock levels for high-performing technology and office supply products identified in the top 10 list.
 
 ---
 
 ### How to Navigate this Repository
-
+1. **The Raw Dataset:** [DeskifyData.csv](https://github.com/user-attachments/files/26522308/DeskifyData.csv)
+2. **The final Excel File and Analysis:** [DeskifyData (1).xlsx](https://github.com/user-attachments/files/26522463/DeskifyData.1.xlsx)
+3. **The Readme**
 - `Deskify_Analysis_Workbook.xlsx`: The full Excel file including Pivot Tables and the interactive Dashboard.
 - `README.md`: Project summary and findings.
